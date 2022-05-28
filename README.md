@@ -13,8 +13,8 @@
 
 👤 **Sara Mohamad**
 
-- GitHub: [@githubhandle](https://github.com/saruuja)
-- Twitter: [@twitterhandle](https://twitter.com/Roojaa114)
+- GitHub: [@githubhandle](https://github.com/Davis-morale)
+- Twitter: [@twitterhandle](https://twitter.com/Davis-morale)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/feed/)
 
 ## 🤝 Contributing
